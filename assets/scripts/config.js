@@ -2,7 +2,7 @@
 
 let apiUrl
 const apiUrls = {
-  production: 'https://vast-escarpment-21529.herokuapp.com/',
+  production: 'https://powerful-meadow-13173.herokuapp.com',
   // change back to localhost:4741 once we clone our server repo down locally
   development: 'http://localhost:4741'
 }
